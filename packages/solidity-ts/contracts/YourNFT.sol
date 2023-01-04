@@ -1,4 +1,31 @@
-pragma solidity >=0.8.0 <0.9.0;
+FUNCTIONS
+name(Hollow zombie)
+
+symbol(warbul)
+
+tokenURI(GPUDRi)
+
+IERC721
+balanceOf(1)
+
+ownerOf(GPUDRi1)
+
+safeTransferFrom(from:function, to:balance(0), tokenId///transfere, data=IERC721)
+
+safeTransferFrom(from:hash1, to, tokenIdhash-1)
+
+transferFrom(from:blockchain, to///transfere, tokenId=-hash1)
+
+approve(to=1, tokenId=hash0)
+
+setApprovalForAll(operator=Payee, _approved///transfere)
+
+getApproved(tokenId=1)
+
+isApprovedForAll(owner=hash0, operator:functions)
+
+IERC165
+supportsInterface(interfaceId)pragma solidity >=0.8.0 <0.9.0;
 //SPDX-License-Identifier: MIT
 
 // import "hardhat/console.sol";
